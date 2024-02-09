@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet7Works", "DotNet7Works\DotNet7Works.csproj", "{82AE6869-2052-4AB8-ADE0-E0B41063B48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8Fails", "DotNet8Fails\DotNet8Fails.csproj", "{8DDCCE82-1FA0-4CDA-B593-888490A76F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AE6869-2052-4AB8-ADE0-E0B41063B48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AE6869-2052-4AB8-ADE0-E0B41063B48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AE6869-2052-4AB8-ADE0-E0B41063B48A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{82AE6869-2052-4AB8-ADE0-E0B41063B48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AE6869-2052-4AB8-ADE0-E0B41063B48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82AE6869-2052-4AB8-ADE0-E0B41063B48A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8DDCCE82-1FA0-4CDA-B593-888490A76F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDCCE82-1FA0-4CDA-B593-888490A76F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDCCE82-1FA0-4CDA-B593-888490A76F79}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8DDCCE82-1FA0-4CDA-B593-888490A76F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDCCE82-1FA0-4CDA-B593-888490A76F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDCCE82-1FA0-4CDA-B593-888490A76F79}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFCB83C-46BB-472A-8DEA-E9C77781391E}
+	EndGlobalSection
+EndGlobal
